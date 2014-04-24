@@ -1,7 +1,7 @@
 LevenshteinDistance
 ===================
 
-A quick implementation of Levenshtein distance
+A quick implementation of Levenshtein distance. The second row and second column are indices, it's more clear on a terminal with coloring.
 
 ```
 > g++ levenshtein.cpp -o levenshtein
